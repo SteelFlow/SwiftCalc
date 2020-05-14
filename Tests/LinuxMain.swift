@@ -1,4 +1,5 @@
 
+import XCTest
 import SwiftCalcTests
 
 var tests = [XCTestCaseEntry]()
